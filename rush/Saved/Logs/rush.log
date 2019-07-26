@@ -596,3 +596,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.26-18.12.45:451][207]LogAssetRegistry: Asset discovery search completed in 39.1225 seconds
 [2019.07.26-18.12.45:454][207]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2019.07.26-18.12.45:454][207]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2019.07.26-18.16.33:482][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.26-18.16.39:371][773]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.26-18.16.47:823][263]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.07.26-18.16.59:059][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.26-18.17.04:565][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.26-18.17.06:877][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.26-18.17.30:435][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.26-18.17.32:759][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.26-18.18.27:821][114]LogSlate: Window 'Guardar nivel como' being destroyed
+[2019.07.26-18.18.27:837][114]LogSlate: Took 0.000432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.26-18.18.27:841][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.26-18.18.27:903][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.07.26-18.18.27:905][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="../../../../../../Users/aaron/Desktop/git/rush-gaming-/rush/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.26-18.18.27:937][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.07.26-18.18.28:306][114]LogSavePackage: Moving '../../../../../../Users/aaron/Desktop/git/rush-gaming-/rush/Saved/1EF3B952B4E4A78DE439D93877D925112.tmp' to '../../../../../../Users/aaron/Desktop/git/rush-gaming-/rush/Content/1.umap'
+[2019.07.26-18.18.28:386][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_BuiltData" FILE="../../../../../../Users/aaron/Desktop/git/rush-gaming-/rush/Content/1_BuiltData.uasset" SILENT=true
+[2019.07.26-18.18.28:401][114]LogSavePackage: Moving '../../../../../../Users/aaron/Desktop/git/rush-gaming-/rush/Saved/1_BuiltDataEE8DE96143F09581AF927BA7BAB7A995.tmp' to '../../../../../../Users/aaron/Desktop/git/rush-gaming-/rush/Content/1_BuiltData.uasset'
+[2019.07.26-18.18.28:413][114]LogFileHelpers: Saving map '1' took 0.584
+[2019.07.26-18.18.28:573][118]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.26-18.20.23:735][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
